@@ -1,0 +1,6 @@
+@MyCubixAPI_HostAddress = http://localhost:5238
+
+GET {{MyCubixAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
